@@ -8,6 +8,10 @@
 
 A robust extension that scans and alerts you if a GitHub repo uses genAI. Can be installed in pretty much everything.
 
+## Privacy
+
+AgenticAlert's [Privacy Policy](https://agenticalert.download/privacy) explains how the extension handles data.
+
 ## Install
 
 ### Firefox
